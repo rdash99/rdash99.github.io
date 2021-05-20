@@ -56384,7 +56384,7 @@ o=t._
 h=a.N(h).f.a.a<768?T.hO(H.b([n.Am(),T.dG(m,24,m),n.Ap(a)],o),C.bb,C.ac,C.bV):T.uc(H.b([T.mW(n.Am(),1),T.dG(m,m,40),T.mW(n.Ap(a),1)],o),C.bb,C.ac,C.ay)
 return T.hO(H.b([g,f,r,e,s,new T.dD(new V.b_(0,0,80,0),q,m),p,h],o),C.bb,C.fo,C.bV)},
 Ap:function(a){var s=null,r=this.c,q=H.ah(r).j("aw<1,dD*>"),p=P.au(new H.aw(r,new Y.Q8(this,a),q),!0,q.j("bd.E"))
-return T.hO(H.b([L.fx("What Skills I Have:",A.cs(s,s,new P.C(4282728539),s,s,s,s,s,"ProductSans",s,s,17,s,s,s,s,!0,s,1.2,s,s,s,s,s),s,s),new T.F_(p,s)],t._),C.bb,C.ac,C.ay)},
+return T.hO(H.b([L.fx("Skills:",A.cs(s,s,new P.C(4282728539),s,s,s,s,s,"ProductSans",s,s,17,s,s,s,s,!0,s,1.2,s,s,s,s,s),s,s),new T.F_(p,s)],t._),C.bb,C.ac,C.ay)},
 Am:function(){var s=null,r="ProductSans"
 return T.hO(H.b([L.fx("Experience",A.cs(s,s,new P.C(4282728539),s,s,s,s,s,r,s,s,17,s,s,s,s,!0,s,1.2,s,s,s,s,s),s,s),L.fx("Previous work experience and Education:",A.cs(s,s,new P.C(4286939548),s,s,s,s,s,r,s,s,12,s,s,s,1.5,!0,s,1,s,s,s,s,s),s,s),T.dG(s,8,s),this.PW()],t._),C.bb,C.ac,C.ay)},
 PW:function(){var s=this.d,r=H.ah(s).j("aw<1,j*>")
