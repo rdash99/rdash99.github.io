@@ -56394,10 +56394,10 @@ return T.hO(H.b([Z.a9D(),new T.dD(new V.b_(12,12,12,12),T.uc(H.b([new T.ey(C.kD,
 Ak:function(a){var s=null,r=A.cs(s,s,new P.C(4286939548),s,s,s,s,s,"ProductSans",s,s,10,s,s,s,1.5,!0,s,1,s,s,s,s,s)
 return L.fx("\xa9 2021 Rowan Dash. ALL RIGHTS RESERVED.",r.Fq(a.N(t.w).f.a.a<768?8:10),s,s)},
 Aq:function(){var s=4282728539,r=null
-return T.uc(H.b([D.jo(r,U.Qv("assets/assets/icons/ic_linkedIn.png",new P.C(s),20,20),C.ab,!1,r,r,r,r,r,r,r,r,r,r,new Y.Q9(),r,r,r,r,r),T.dG(r,r,16),D.jo(r,U.Qv("assets/icons/ic_GitHub.png",new P.C(s),20,20),C.ab,!1,r,r,r,r,r,r,r,r,r,r,new Y.Qa(),r,r,r,r,r),T.dG(r,r,16),D.jo(r,U.Qv("assets/icons/ic_twitter.png",new P.C(s),20,20),C.ab,!1,r,r,r,r,r,r,r,r,r,r,new Y.Qb(),r,r,r,r,r)],t._),C.aB,C.fo,C.ay)}}
+return T.uc(H.b([D.jo(r,U.Qv("assets/assets/icons/ic_linkedIn.png",new P.C(s),20,20),C.ab,!1,r,r,r,r,r,r,r,r,r,r,new Y.Q9(),r,r,r,r,r),T.dG(r,r,16),D.jo(r,U.Qv("assets/assets/icons/ic_GitHub.png",new P.C(s),20,20),C.ab,!1,r,r,r,r,r,r,r,r,r,r,new Y.Qa(),r,r,r,r,r),T.dG(r,r,16),D.jo(r,U.Qv("assets/assets/icons/ic_twitter.png",new P.C(s),20,20),C.ab,!1,r,r,r,r,r,r,r,r,r,r,new Y.Qb(),r,r,r,r,r)],t._),C.aB,C.fo,C.ay)}}
 Y.Qc.prototype={
 $2:function(a,b){var s,r,q,p,o,n=null,m=this.a,l=b.b,k=b.d,j=T.mW(m.te(a),1),i=$.a4G(),h=t._
-i=T.hO(H.b([T.mW(T.uc(H.b([j,U.Qv("assets/images/gears.gif",n,345*($.a6o/i.a),n)],h),C.aB,C.ac,C.ay),1),m.Ao(a)],h),C.aB,C.ac,C.bV)
+i=T.hO(H.b([T.mW(T.uc(H.b([j,U.Qv("assets/assets/images/gears.gif",n,345*($.a6o/i.a),n)],h),C.aB,C.ac,C.ay),1),m.Ao(a)],h),C.aB,C.ac,C.bV)
 j=T.hO(H.b([T.mW(T.uc(H.b([T.mW(m.te(a),1)],h),C.aB,C.ac,C.ay),1),m.Ao(a)],h),C.aB,C.ac,C.bV)
 s=T.mW(m.te(a),1)
 r=Z.a9D()
