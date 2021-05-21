@@ -56397,7 +56397,7 @@ Y.Qc.prototype={
 $2:function(a,b){var s,r,q,p,o,n,m=null,l=this.a,k=b.b,j=b.d,i=T.mW(l.te(a),1),h=$.a4G()
 h=345*($.a6o/h.a)
 s=t._
-h=T.hO(H.b([T.mW(T.uc(H.b([i,U.Qv("assets/assets/images/gears.gif",m,h,h)],s),C.aB,C.ac,C.ay),1),l.Ao(a)],s),C.aB,C.ac,C.bV)
+h=T.hO(H.b([T.mW(T.uc(H.b([i,U.Qv("assets/assets/images/programmer.gif",m,h,h)],s),C.aB,C.ac,C.ay),1),l.Ao(a)],s),C.aB,C.ac,C.bV)
 i=T.hO(H.b([T.mW(T.uc(H.b([T.mW(l.te(a),1)],s),C.aB,C.ac,C.ay),1),l.Ao(a)],s),C.aB,C.ac,C.bV)
 r=T.mW(l.te(a),1)
 q=Z.a9D()
