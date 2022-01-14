@@ -18075,10 +18075,10 @@ H.LT.prototype={
 gNI(){var s=new H.ev(new W.lZ(window.document.querySelectorAll("meta"),t.jG),t.z8).fd(0,new H.LU(),new H.LV())
 return s==null?null:s.content},
 yA(a){var s
-if(P.lV(a,0,null).gGx())return P.Kp(C.fw,a,C.a3,!1)
+if(P.lV(a,0,null).gGx())return P.Kp(C.fx,a,C.a3,!1)
 s=this.gNI()
 if(s==null)s=""
-return P.Kp(C.fw,s+("assets/"+H.c(a)),C.a3,!1)},
+return P.Kp(C.fx,s+("assets/"+H.c(a)),C.a3,!1)},
 cJ(a,b){return this.YV(0,b)},
 YV(a,b){var s=0,r=P.a6(t.yp),q,p=2,o,n=[],m=this,l,k,j,i,h,g,f,e
 var $async$cJ=P.a2(function(c,d){if(c===1){o=d
@@ -46258,7 +46258,7 @@ Q.Ti.prototype={
 cJ(a,b){return this.YW(0,b)},
 YW(a,b){var s=0,r=P.a6(t.yp),q,p,o
 var $async$cJ=P.a2(function(c,d){if(c===1)return P.a3(d,r)
-while(true)switch(s){case 0:p=C.bP.cF(P.akW(P.Kp(C.fw,b,C.a3,!1)).e)
+while(true)switch(s){case 0:p=C.bP.cF(P.akW(P.Kp(C.fx,b,C.a3,!1)).e)
 s=3
 return P.ah($.fy.gu6().o6(0,"flutter/assets",H.eR(p.buffer,0,null)),$async$cJ)
 case 3:o=d
@@ -55369,7 +55369,7 @@ r=B.bb(f,r,C.a4,f,f)
 r=T.cp(H.b([i,U.a7y(!0,h,H.b([" Aspiring SciFi Writer"," Aspiring software engineer"],t.i),r)],m),C.C,C.v,C.ai)
 n=T.bs(f,n,f)
 h=H.b([],m)
-for(e=d*0.035,i=c*0.005,g=0;g<4;++g)h.push(new B.eX(new L.o2(C.fu[g],C.fx[g],e,i,f),f))
+for(e=d*0.035,i=c*0.005,g=0;g<4;++g)h.push(new B.eX(new L.o2(C.fu[g],C.fw[g],e,i,f),f))
 return M.b3(f,T.it(C.b_,H.b([s,M.b3(f,T.cW(H.b([o,p,q,l,new B.fd(r,k,j,new P.p(-10,0),f),n,T.cp(h,C.C,C.v,C.aD)],m),C.ad,C.v),f,f,f,new V.az(c*0.1,d*0.2,0,0),f,f)],m),C.bc),f,f,d,f,f,c)}}
 G.r0.prototype={
 aq(){return new G.GK(C.l)}}
@@ -55389,7 +55389,7 @@ k=B.bb(i,s,C.a4,i,i)
 k=T.cp(H.b([m,U.a7y(!0,l,H.b([" Aspiring SciFi Writer"," Aspiring software engineer"],t.i),k)],r),C.C,C.v,C.ai)
 l=T.bs(i,g*0.035,i)
 m=H.b([],r)
-for(j=0;j<4;++j)m.push(new L.o2(C.fu[j],C.fx[j],s,2,i))
+for(j=0;j<4;++j)m.push(new L.o2(C.fu[j],C.fw[j],s,2,i))
 return M.b3(i,T.it(C.b_,H.b([h,M.b3(i,T.cW(H.b([q,p,n,o,k,l,T.cp(m,C.C,C.v,C.aD)],r),C.ad,C.v),i,i,i,new V.az(f*0.07,g*0.12,0,0),i,i)],r),C.bc),i,i,g,i,i,f)}}
 V.Ar.prototype={
 D(a,b){var s,r,q,p,o,n,m,l,k,j,i,h,g=null,f=t.w,e=b.C(f).f.a.b,d=b.C(f).f.a.a
@@ -55412,7 +55412,7 @@ s=B.bb(g,s,C.a4,g,g)
 s=T.cp(H.b([l,U.a7y(!0,k,H.b([" Aspiring SciFi Writer"," Aspiring software engineer"],t.i),s)],q),C.C,C.v,C.ai)
 k=T.bs(g,e*0.045,g)
 l=H.b([],q)
-for(j=e*0.035,i=d*0.01,h=0;h<4;++h)l.push(new L.o2(C.fu[h],C.fx[h],j,i,g))
+for(j=e*0.035,i=d*0.01,h=0;h<4;++h)l.push(new L.o2(C.fu[h],C.fw[h],j,i,g))
 return M.b3(g,T.it(C.b_,H.b([r,M.b3(g,T.cW(H.b([p,o,m,n,s,k,T.cp(l,C.C,C.v,C.aD)],q),C.ad,C.v),g,g,g,new V.az(d*0.1,f,0,0),g,g)],q),C.bc),g,g,e,g,g,d)}}
 F.rD.prototype={
 aq(){return new F.Hc(F.u8(25,!0),new A.QY(),new N.rc(new B.dU(H.b([],t.zt),P.al(0,null,!1,t.Y))),H.b(["Home","About","Services","Projects","Contact"],t.i),H.b([C.iN,C.xP,C.xS,C.xM,C.iO],t.nD),C.l)}}
@@ -59025,15 +59025,15 @@ C.c6=H.b(s([]),t.i)
 C.aa=H.b(s([]),H.ac("r<abz*>"))
 C.jc=H.b(s([]),H.ac("r<fE*>"))
 C.JV=H.b(s([]),t._)
+C.fw=H.b(s(["https://instagram.com/zugglybug","https://twitter.com/rowandash","https://www.linkedin.com/in/rowan-dash-0b5a72197/","https://github.com/rdash99"]),t.i)
 C.zg=H.b(s([0,0,32722,12287,65534,34815,65534,18431]),t.W)
-C.fw=H.b(s([0,0,65498,45055,65535,34815,65534,18431]),t.W)
+C.fx=H.b(s([0,0,65498,45055,65535,34815,65534,18431]),t.W)
 C.dT=H.b(s([0,0,24576,1023,65534,34815,65534,18431]),t.W)
 C.zs=H.b(s([0,0,32754,11263,65534,34815,65534,18431]),t.W)
 C.jd=H.b(s([0,0,65490,12287,65535,34815,65534,18431]),t.W)
 C.S=new T.d9("TargetPlatform.fuchsia")
 C.zt=H.b(s([C.P,C.S,C.L,C.E,C.F,C.G]),H.ac("r<d9*>"))
 C.je=H.b(s(["bind","if","ref","repeat","syntax"]),t.i)
-C.fx=H.b(s(["https://instagram.com/zugglybug","https://twitter.com/rowandash","https://linkedin.com/in/mhamzadev","https://github.com/rdash99"]),t.i)
 C.fy=H.b(s(["A::href","AREA::href","BLOCKQUOTE::cite","BODY::background","COMMAND::icon","DEL::cite","FORM::action","IMG::src","INPUT::src","INS::cite","Q::cite","VIDEO::poster"]),t.i)
 C.hw=new D.oE("_CornerId.topLeft")
 C.hz=new D.oE("_CornerId.bottomRight")
