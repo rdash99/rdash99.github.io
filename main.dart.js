@@ -60769,7 +60769,7 @@ return H.b(["assets/projects/butterfly-banner.jpg",s,s,s],t.i)}()
 $.adO=function(){var s="assets/projects/temp.jpg"
 return H.b(["assets/projects/butterfly-icon.png",s,s,s],t.i)}()
 $.adQ=H.b(["Nature reserve sightings web app","Coming Soon","Coming Soon","Coming Soon"],t.i)
-$.adN=H.b(["Uk Nature reserve app for butterfly recording","Coming Soon","Coming Soon","Coming Soon"],t.i)
+$.adN=H.b(["Uk Nature reserve app for butterfly recording - very much a work in progress","Coming Soon","Coming Soon","Coming Soon"],t.i)
 $.adP=function(){var s="https://github.com/rdash99"
 return H.b(["https://rdash99.github.io/NatureReserveWebBuild/",s,s,s],t.i)}()
 $.a58=H.b([C.iN,C.iO,C.xN],t.nD)
