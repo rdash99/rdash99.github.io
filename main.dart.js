@@ -55350,7 +55350,7 @@ e=c<1200
 s=e?d*0.15:d*0.1
 r=P.aF(0,0,1)
 q=P.aF(0,800,0)
-s=T.tv(f,T.t8(new B.fd(U.i1("assets/1.png",e?d*0.8:d*0.85),r,q,new P.p(0,0),f),0.9),f,f,f,c*0.01,s,f)
+s=T.tv(f,T.t8(new B.fd(U.i1("assets/loop.png",e?d*0.8:d*0.85),r,q,new P.p(0,0),f),0.9),f,f,f,c*0.01,s,f)
 r=d*0.03
 q=L.aV("WELCOME TO MY PORTFOLIO! ",B.bb(f,r,C.bY,f,f),f,f)
 p=P.aF(0,0,2)
@@ -55375,7 +55375,7 @@ G.r0.prototype={
 aq(){return new G.GK(C.l)}}
 G.GK.prototype={
 D(a,b){var s,r,q,p,o,n,m,l,k,j,i=null,h=t.w,g=b.C(h).f.a.b,f=b.C(h).f.a.a
-h=T.tv(0,T.t8(U.i1("assets/1.png",g*0.65),0.7),i,i,i,-f*0.3,i,i)
+h=T.tv(0,T.t8(U.i1("assets/loop.png",g*0.65),0.7),i,i,i,-f*0.3,i,i)
 s=g*0.03
 r=t._
 q=T.cp(H.b([L.aV("HEY THERE! ",B.bb(i,g*0.025,C.a4,i,i),i,i),U.i1("assets/hi.gif",s)],r),C.C,C.v,C.aD)
