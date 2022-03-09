@@ -60152,13 +60152,13 @@ $.a7i=A.c(["For now, I am developing Web Apps using Flutter. I am also working o
 $.a7k=function(){var s="https://github.com/rdash99"
 return A.c([s,s],t.i)}()
 $.amV=function(){var s="assets/projects/temp.jpg"
-return A.c(["assets/projects/butterfly-banner.jpg",s,s,s],t.i)}()
+return A.c(["assets/projects/butterfly-banner.jpg","assets/projects/inert.png",s,s],t.i)}()
 $.acw=function(){var s="assets/projects/temp.jpg"
-return A.c(["assets/projects/butterfly-icon.png",s,s,s],t.i)}()
-$.acy=A.c(["Nature reserve sightings web app","Coming Soon","Coming Soon","Coming Soon"],t.i)
-$.acv=A.c(["Uk Nature reserve app for butterfly recording - very much a work in progress","Coming Soon","Coming Soon","Coming Soon"],t.i)
+return A.c(["assets/projects/butterfly-icon.png","assets/projects/inert.png",s,s],t.i)}()
+$.acy=A.c(["Nature reserve sightings web app","Contributed to: Inert Bot","Coming Soon","Coming Soon"],t.i)
+$.acv=A.c(["Uk Nature reserve app for butterfly recording - very much a work in progress","An open source Discord bot","Coming Soon","Coming Soon"],t.i)
 $.acx=function(){var s="https://github.com/rdash99"
-return A.c(["https://rdash99.github.io/NatureReserveWebBuild/",s,s,s],t.i)}()
+return A.c(["https://rdash99.github.io/NatureReserveWebBuild/","https://github.com/inert-bot/discord-bot/",s,s],t.i)}()
 $.a4t=A.c([B.l2,B.l3,B.wK],t.nD)
 $.a4u=A.c(["Location","Phone","Email"],t.i)
 $.a4s=A.c(["Worcester, United Kingdom","(+44) 07963 301035","rowandash@outlook.com"],t.i)
