@@ -55077,7 +55077,7 @@ $0(){return A.k7(this.a.d)},
 $S:0}
 A.lM.prototype={
 D(a,b){var s,r,q=null,p=t.w,o=b.C(p).f.a.a,n=A.aY("Technologies I have worked with:\n",q,q,q),m=t.t,l=A.c([],m)
-for(s=0;s<3;++s)l.push(new A.oM($.amW[s],q))
+for(s=0;s<4;++s)l.push(new A.oM($.amW[s],q))
 for(s=0;s<3;++s)l.push(o>=600&&o<=950?new A.oM($.acz[s],q):A.b0(q,q,q,q,q,q,q,q))
 l=A.cU(l,B.a5,B.r)
 r=!(o<=600)
@@ -60144,7 +60144,7 @@ $.b1=1
 $.acU=null
 $.a7g=A.c(["assets/ksw.png","assets/flutter.png","assets/SwanseaUni.png"],t.i)
 $.a7f=A.c(["https://www.ksw.org.uk/","https://flutter.dev/","https://www.swansea.ac.uk"],t.i)
-$.amW=A.c(["Flutter","Dart","Python"],t.i)
+$.amW=A.c(["Flutter","Dart","Python","Bash"],t.i)
 $.acz=A.c(["HTML","CSS","Java"],t.i)
 $.a7j=A.c(["assets/services/app.png","assets/services/open.png"],t.i)
 $.a7l=A.c(["App Development","Open Source - GitHub"],t.i)
@@ -60162,7 +60162,7 @@ return A.c(["https://rdash99.github.io/NatureReserveWebBuild/","https://github.c
 $.a4t=A.c([B.l2,B.l3,B.wK],t.nD)
 $.a4u=A.c(["Location","Phone","Email"],t.i)
 $.a4s=A.c(["Worcester, United Kingdom","(+44) 07963 301035","rowandash@outlook.com"],t.i)
-$.a7h=A.c(["https://www.google.com/maps/place/Worcester/@52.1965615,-2.2452727,13z/data=!3m1!4b1!4m5!3m4!1s0x4870505800bbccd5:0xab9aa4f4d0da911c!8m2!3d52.193636!4d-2.221575","tel:+4407963301035","mailto:rowandash@outlook.com"],t.i)
+$.a7h=A.c(["https://www.google.com/maps/place/Worcester/@52.1965615,-2.2452727,13z/data=!3m1!4b1!4m5!3m4!1s0x4870505800bbccd5:0xab9aa4f4d0da911c!8m2!3d52.193636!4d-2.221575","sms:07963301035","mailto:rowandash@outlook.com"],t.i)
 $.a86=null
 $.a70=A.b4(t.N)
 $.ll=null
