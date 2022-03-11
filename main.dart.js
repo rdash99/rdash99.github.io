@@ -17969,7 +17969,7 @@ else return"https://"+A.d(s)},
 a_x(a){var s=0,r=A.a6(t.bD),q,p,o
 var $async$a_x=A.a7(function(b,c){if(b===1)return A.a3(c,r)
 while(true)switch(s){case 0:s=3
-return A.ac(A.aoW(A.m7("http://xkcd.com/"+a+"/info.0.json",0,null)),$async$a_x)
+return A.ac(A.aoW(A.m7("https://xkcd.com/"+a+"/info.0.json",0,null)),$async$a_x)
 case 3:p=c
 o=B.az.F7(0,A.aoI(A.amM(p.e).c.a.h(0,"charset")).cD(0,p.x),null)
 A.mA(o)
