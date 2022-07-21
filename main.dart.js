@@ -64468,13 +64468,11 @@ $.abH=A.b(["App Development","Open Source - GitHub"],t.i)
 $.abE=A.b(["For now, I am developing Web Apps using Flutter. I am also working on Flutter for Android Development.","Working open source on GitHub.\nCheck out my GitHub Profile @rdash99"],t.i)
 $.abG=function(){var s="https://github.com/rdash99"
 return A.b([s,s],t.i)}()
-$.auY=function(){var s="assets/projects/butterfly-banner.jpg"
-return A.b([s,s,"assets/projects/inert.png","assets/projects/temp.jpg"],t.i)}()
-$.ahR=function(){var s="assets/projects/butterfly-icon.png"
-return A.b([s,s,"assets/projects/inert.png","assets/projects/rethinkdb-logo.png"],t.i)}()
-$.ahT=A.b(["Nature reserve sightings web app","Nature reserve sightings source code","Contributed to: Inert Bot","RethinkDB Dart Driver"],t.i)
-$.ahQ=A.b(["Uk Nature reserve app for butterfly recording - very much a work in progress","Nature reserve sightings source code","An open source customiable Discord bot","RethinkDB Dart Driver - maintaining only"],t.i)
-$.ahS=A.b(["https://rdash99.github.io/NatureReserveWebBuild/","https://github.com/rdash99/Uk-Nature-Reserve-Data-Logging-App","https://github.com/inert-bot/discord-bot/","https://github.com/rdash99/rethinkdb"],t.i)
+$.auY=A.b(["assets/projects/butterfly-banner.jpg","assets/projects/inert.png","assets/projects/rethinkdb.jpg","assets/projects/temp.jpg"],t.i)
+$.ahR=A.b(["assets/projects/butterfly-icon.png","assets/projects/inert.png","assets/projects/rethinkdb-back.png","assets/projects/temp.jpg"],t.i)
+$.ahT=A.b(["Nature reserve sightings web app","Contributed to: Inert Bot","RethinkDB Dart Driver","Coming Soon"],t.i)
+$.ahQ=A.b(["Uk Nature reserve app for butterfly recording - very much a work in progress","An open source customiable Discord bot","RethinkDB Dart Driver - maintaining only","Coming Soon"],t.i)
+$.ahS=A.b(["https://rdash99.github.io/NatureReserveWebBuild/","https://github.com/inert-bot/discord-bot/","https://github.com/rdash99/rethinkdb","https://github.com/rdash99/"],t.i)
 $.a8y=A.b([B.yT,B.yW,B.yU],A.S("o<df*>"))
 $.a8z=A.b(["Location","Phone","Email"],t.i)
 $.a8x=A.b(["Worcester, United Kingdom","(+44) 07963 301035","rowandash@outlook.com"],t.i)
