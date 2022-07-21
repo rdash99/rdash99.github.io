@@ -59196,7 +59196,7 @@ s=i*0.02
 r=A.b3("\nPortfolio",A.bd(k,i*0.06,B.N,k,1),k,k)
 q=A.b3(u.d,A.bd(k,k,B.Y,k,k),k,k)
 p=h>1200?i*0.45:h*0.2
-p=A.bv(A.apx(new A.Xz(h,i),5,new A.aC(0,20,0,20),B.aO,new A.XA(h)),p,k)
+p=A.bv(A.apx(new A.Xz(h,i),4,new A.aC(0,20,0,20),B.aO,new A.XA(h)),p,k)
 o=A.bv(k,s,k)
 n=$.dl()
 m=n.a
@@ -59225,7 +59225,7 @@ l=b.E(l).f
 s=A.b3("\nPortfolio",A.bd(m,k*0.06,B.N,m,1),m,m)
 r=A.b3(u.d,A.bd(m,m,B.Y,m,m),B.aL,m)
 q=A.aB(0,0,5)
-q=A.a9Q(new A.XC(l.a.a),5,A.a9P(!0,A.aB(0,800,0),B.aR,q,!1,!0,k*0.4))
+q=A.a9Q(new A.XC(l.a.a),4,A.a9P(!0,A.aB(0,800,0),B.aR,q,!1,!0,k*0.4))
 l=A.bv(m,k*0.03,m)
 p=$.dl()
 o=p.a
@@ -64676,13 +64676,13 @@ $.abU=A.b(["App Development","Open Source - GitHub"],t.i)
 $.abR=A.b(["For now, I am developing Web Apps using Flutter. I am also working on Flutter for Android Development.","Working open source on GitHub.\nCheck out my GitHub Profile @rdash99"],t.i)
 $.abT=function(){var s="https://github.com/rdash99"
 return A.b([s,s],t.i)}()
-$.avj=function(){var s="assets/projects/butterfly-banner.jpg",r="assets/projects/temp.jpg"
-return A.b([s,s,"assets/projects/inert.png",r,r],t.i)}()
-$.ai6=function(){var s="assets/projects/butterfly-icon.png",r="assets/projects/temp.jpg"
-return A.b([s,s,"assets/projects/inert.png",r,r],t.i)}()
-$.ai8=A.b(["Nature reserve sightings web app","Nature reserve sightings source code","Contributed to: Inert Bot","RethinkDB Dart Driver","Coming Soon"],t.i)
-$.ai5=A.b(["Uk Nature reserve app for butterfly recording - very much a work in progress","Nature reserve sightings source code","An open source customiable Discord bot","RethinkDB Dart Driver - maintaining only","Coming Soon"],t.i)
-$.ai7=A.b(["https://rdash99.github.io/NatureReserveWebBuild/","https://github.com/rdash99/Uk-Nature-Reserve-Data-Logging-App","https://github.com/inert-bot/discord-bot/","https://github.com/rdash99/rethinkdb","https://github.com/rdash99"],t.i)
+$.avj=function(){var s="assets/projects/butterfly-banner.jpg"
+return A.b([s,s,"assets/projects/inert.png","assets/projects/temp.jpg"],t.i)}()
+$.ai6=function(){var s="assets/projects/butterfly-icon.png"
+return A.b([s,s,"assets/projects/inert.png","assets/projects/temp.jpg"],t.i)}()
+$.ai8=A.b(["Nature reserve sightings web app","Nature reserve sightings source code","Contributed to: Inert Bot","RethinkDB Dart Driver"],t.i)
+$.ai5=A.b(["Uk Nature reserve app for butterfly recording - very much a work in progress","Nature reserve sightings source code","An open source customiable Discord bot","RethinkDB Dart Driver - maintaining only"],t.i)
+$.ai7=A.b(["https://rdash99.github.io/NatureReserveWebBuild/","https://github.com/rdash99/Uk-Nature-Reserve-Data-Logging-App","https://github.com/inert-bot/discord-bot/","https://github.com/rdash99/rethinkdb"],t.i)
 $.a8F=A.b([B.lz,B.lA,B.yI],t.bY)
 $.a8G=A.b(["Location","Phone","Email"],t.i)
 $.a8E=A.b(["Worcester, United Kingdom","(+44) 07963 301035","rowandash@outlook.com"],t.i)
