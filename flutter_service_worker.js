@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "97e68de33f0046b8fcd93f6d8df329c2",
+  "assets/AssetManifest.json": "28860e28a7888932653b58cd521ed5a6",
 "assets/assets/1.png": "bfe6937b7efe51b19a67c42eeefe298f",
 "assets/assets/cui.png": "b5608c4d79345ca955f990a24a454554",
 "assets/assets/dsc.png": "bd954ceeeb42b91899ebe1c3b0d79850",
@@ -33,16 +33,19 @@ const RESOURCES = {
 "assets/assets/services/rapid.png": "8d3ff9fbdddae77403af46662f011ee8",
 "assets/assets/services/ui.png": "3cf727247752b730a05f51fe0177036f",
 "assets/assets/SwanseaUni.png": "8a5a873cfd37599d3ff35452adc36b68",
-"assets/FontManifest.json": "53db916e40f5cd339f7e07ff4f1303a1",
+"assets/FontManifest.json": "c6025de146e227fabb43e7a91f3ba4a0",
 "assets/fonts/MaterialIcons-Regular.otf": "95db9098c58fd6db106f1116bae85a0b",
-"assets/NOTICES": "ccf78e122e9b0f869651efd92f9c4ef1",
+"assets/NOTICES": "e13fd38428e4e496cde9844710e2647f",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
+"assets/packages/font_awesome_flutter/lib/fonts/fa-brands-400.ttf": "d1722d5cf2c7855862f68edb85e31f88",
+"assets/packages/font_awesome_flutter/lib/fonts/fa-regular-400.ttf": "613e4cc1af0eb5148b8ce409ad35446d",
+"assets/packages/font_awesome_flutter/lib/fonts/fa-solid-900.ttf": "dd3c4233029270506ecc994d67785a37",
 "favicon.png": "7f89fb551cca5a258242d0d7841c5b7b",
 "icons/Icon-192.png": "00a5ff788a8ca90b4eef0472f28c80f0",
 "icons/Icon-512.png": "c09b0358b0555acbbcc6ec822566feee",
 "index.html": "dca8a442d8d56a5434c0bf49d5a2e165",
 "/": "dca8a442d8d56a5434c0bf49d5a2e165",
-"main.dart.js": "8a8edff0bd492a24a7e719656b6ca489",
+"main.dart.js": "5eab6024f75f11145d27942a1338dd1f",
 "manifest.json": "c505fffa6c1dd16d4c4729d546ef2a0c",
 "version.json": "a29e8b22a08aa0274b027931eec216c4"
 };
