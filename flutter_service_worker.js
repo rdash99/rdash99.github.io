@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "28860e28a7888932653b58cd521ed5a6",
+  "assets/AssetManifest.json": "9ab29247fa909aac8c22956b80176abb",
 "assets/assets/1.png": "bfe6937b7efe51b19a67c42eeefe298f",
 "assets/assets/cui.png": "b5608c4d79345ca955f990a24a454554",
 "assets/assets/dsc.png": "bd954ceeeb42b91899ebe1c3b0d79850",
@@ -24,6 +24,7 @@ const RESOURCES = {
 "assets/assets/projects/inert.png": "e8e5b6b406a0a8de76325d253443a617",
 "assets/assets/projects/inert.webp": "7e2eaa904658ffd601bd969b8c2d2d6c",
 "assets/assets/projects/java.png": "62be9fb6e1d7166e9cbeeed913096752",
+"assets/assets/projects/rethinkdb-logo.png": "f23a17116f317cc190279c154fda03d0",
 "assets/assets/projects/temp.jpg": "5711c1b0c7e5efd021261406b21bb0e3",
 "assets/assets/r.gif": "515a309b5ca3b046e66970a24db80004",
 "assets/assets/r.png": "4731675a4b5f8a334cec785cb5f116f0",
@@ -45,7 +46,7 @@ const RESOURCES = {
 "icons/Icon-512.png": "c09b0358b0555acbbcc6ec822566feee",
 "index.html": "dca8a442d8d56a5434c0bf49d5a2e165",
 "/": "dca8a442d8d56a5434c0bf49d5a2e165",
-"main.dart.js": "878fee7a4143c0bb105d3749bdff9aad",
+"main.dart.js": "0f5bba8c71d7ec5740197b95c99b781e",
 "manifest.json": "c505fffa6c1dd16d4c4729d546ef2a0c",
 "version.json": "a29e8b22a08aa0274b027931eec216c4"
 };
