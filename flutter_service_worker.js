@@ -3,53 +3,54 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "ecc0bccb02000b2fa4c07135a4023511",
-"assets/assets/1.png": "bfe6937b7efe51b19a67c42eeefe298f",
-"assets/assets/cui.png": "b5608c4d79345ca955f990a24a454554",
-"assets/assets/dsc.png": "bd954ceeeb42b91899ebe1c3b0d79850",
-"assets/assets/favicon.gif": "8800600065932d30e6fabde02225ab0f",
-"assets/assets/favicon.png": "7f89fb551cca5a258242d0d7841c5b7b",
-"assets/assets/flutter.png": "67642a0b80f3d50277c44cde8f450e50",
-"assets/assets/fonts/agustina.otf": "7b9833076716a8d14eec0cf885a3153c",
-"assets/assets/fonts/montserrat.ttf": "ee6539921d713482b8ccd4d0d23961bb",
-"assets/assets/hi.gif": "cad5918d86b6a7e83f1fb4acead70e4c",
-"assets/assets/ksw.png": "b71b7bc9ef10d92fe28f7163e70e110f",
-"assets/assets/ksw2.png": "41bf7a4c74444128e4071afe665d35d3",
-"assets/assets/loop.png": "beeffd79900d0c5459b8389b5633fd0f",
-"assets/assets/projects/android.png": "765adf924dae4d5e67bfb640bcd05c48",
-"assets/assets/projects/butterfly-banner.jpg": "448473912029e2bc84b77c146df9ad09",
-"assets/assets/projects/butterfly-icon.png": "346905840614c829ac7c44c0194b874c",
-"assets/assets/projects/flutter.png": "0b5a2f8d3f4d173805affaf9f84f6c87",
-"assets/assets/projects/inert.jpg": "b22256f981a446952e09697611a127c5",
-"assets/assets/projects/inert.png": "e8e5b6b406a0a8de76325d253443a617",
-"assets/assets/projects/inert.webp": "7e2eaa904658ffd601bd969b8c2d2d6c",
-"assets/assets/projects/java.png": "62be9fb6e1d7166e9cbeeed913096752",
-"assets/assets/projects/rethinkdb-back.png": "82b4ed4e745a6e216ae9cc194ed2f194",
-"assets/assets/projects/rethinkdb.jpg": "bd423d05ab30bfa597e3da3f17a3f76c",
-"assets/assets/projects/temp.jpg": "5711c1b0c7e5efd021261406b21bb0e3",
-"assets/assets/r.gif": "515a309b5ca3b046e66970a24db80004",
-"assets/assets/r.png": "4731675a4b5f8a334cec785cb5f116f0",
-"assets/assets/services/app.png": "9d2da88edb7f550ef24874b306b4ae12",
-"assets/assets/services/blog.png": "5e1cbb2c67e2b8ea9ae4bcce0705d2a4",
-"assets/assets/services/open.png": "4a5996597d32b06d91183f0860c29aab",
-"assets/assets/services/rapid.png": "8d3ff9fbdddae77403af46662f011ee8",
-"assets/assets/services/ui.png": "3cf727247752b730a05f51fe0177036f",
-"assets/assets/SwanseaUni.png": "8a5a873cfd37599d3ff35452adc36b68",
-"assets/FontManifest.json": "c6025de146e227fabb43e7a91f3ba4a0",
-"assets/fonts/MaterialIcons-Regular.otf": "95db9098c58fd6db106f1116bae85a0b",
-"assets/NOTICES": "e13fd38428e4e496cde9844710e2647f",
-"assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
-"assets/packages/font_awesome_flutter/lib/fonts/fa-brands-400.ttf": "d1722d5cf2c7855862f68edb85e31f88",
-"assets/packages/font_awesome_flutter/lib/fonts/fa-regular-400.ttf": "613e4cc1af0eb5148b8ce409ad35446d",
-"assets/packages/font_awesome_flutter/lib/fonts/fa-solid-900.ttf": "dd3c4233029270506ecc994d67785a37",
+  "version.json": "a29e8b22a08aa0274b027931eec216c4",
+"index.html": "a7bf6d366c8933e060772524c0f3d481",
+"/": "a7bf6d366c8933e060772524c0f3d481",
+"main.dart.js": "2867b17784e9a8cdbc19ab5a73aa7335",
+"flutter.js": "f85e6fb278b0fd20c349186fb46ae36d",
 "favicon.png": "7f89fb551cca5a258242d0d7841c5b7b",
 "icons/Icon-192.png": "00a5ff788a8ca90b4eef0472f28c80f0",
 "icons/Icon-512.png": "c09b0358b0555acbbcc6ec822566feee",
-"index.html": "dca8a442d8d56a5434c0bf49d5a2e165",
-"/": "dca8a442d8d56a5434c0bf49d5a2e165",
-"main.dart.js": "049e0f3ec2bab6d67819fd4ea377502e",
-"manifest.json": "c505fffa6c1dd16d4c4729d546ef2a0c",
-"version.json": "a29e8b22a08aa0274b027931eec216c4"
+"manifest.json": "6103da101d7e67da00dfcaebd8ca03c1",
+"assets/AssetManifest.json": "97e68de33f0046b8fcd93f6d8df329c2",
+"assets/NOTICES": "47c35cf9fd6ca680b5a6b6fd895d6ba7",
+"assets/FontManifest.json": "53db916e40f5cd339f7e07ff4f1303a1",
+"assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
+"assets/shaders/ink_sparkle.frag": "964dd4986685ca2313f531e51df2f129",
+"assets/fonts/MaterialIcons-Regular.otf": "95db9098c58fd6db106f1116bae85a0b",
+"assets/assets/favicon.gif": "8800600065932d30e6fabde02225ab0f",
+"assets/assets/ksw.png": "b71b7bc9ef10d92fe28f7163e70e110f",
+"assets/assets/flutter.png": "67642a0b80f3d50277c44cde8f450e50",
+"assets/assets/projects/flutter.png": "0b5a2f8d3f4d173805affaf9f84f6c87",
+"assets/assets/projects/inert.webp": "7e2eaa904658ffd601bd969b8c2d2d6c",
+"assets/assets/projects/inert.png": "e8e5b6b406a0a8de76325d253443a617",
+"assets/assets/projects/inert.jpg": "b22256f981a446952e09697611a127c5",
+"assets/assets/projects/butterfly-icon.png": "346905840614c829ac7c44c0194b874c",
+"assets/assets/projects/java.png": "62be9fb6e1d7166e9cbeeed913096752",
+"assets/assets/projects/android.png": "765adf924dae4d5e67bfb640bcd05c48",
+"assets/assets/projects/temp.jpg": "5711c1b0c7e5efd021261406b21bb0e3",
+"assets/assets/projects/butterfly-banner.jpg": "448473912029e2bc84b77c146df9ad09",
+"assets/assets/ksw2.png": "41bf7a4c74444128e4071afe665d35d3",
+"assets/assets/r.gif": "515a309b5ca3b046e66970a24db80004",
+"assets/assets/cui.png": "b5608c4d79345ca955f990a24a454554",
+"assets/assets/dsc.png": "bd954ceeeb42b91899ebe1c3b0d79850",
+"assets/assets/favicon.png": "7f89fb551cca5a258242d0d7841c5b7b",
+"assets/assets/hi.gif": "cad5918d86b6a7e83f1fb4acead70e4c",
+"assets/assets/fonts/agustina.otf": "7b9833076716a8d14eec0cf885a3153c",
+"assets/assets/fonts/montserrat.ttf": "ee6539921d713482b8ccd4d0d23961bb",
+"assets/assets/loop.png": "beeffd79900d0c5459b8389b5633fd0f",
+"assets/assets/SwanseaUni.png": "8a5a873cfd37599d3ff35452adc36b68",
+"assets/assets/r.png": "4731675a4b5f8a334cec785cb5f116f0",
+"assets/assets/services/app.png": "9d2da88edb7f550ef24874b306b4ae12",
+"assets/assets/services/rapid.png": "8d3ff9fbdddae77403af46662f011ee8",
+"assets/assets/services/blog.png": "5e1cbb2c67e2b8ea9ae4bcce0705d2a4",
+"assets/assets/services/open.png": "4a5996597d32b06d91183f0860c29aab",
+"assets/assets/services/ui.png": "3cf727247752b730a05f51fe0177036f",
+"assets/assets/1.png": "bfe6937b7efe51b19a67c42eeefe298f",
+"canvaskit/canvaskit.js": "2bc454a691c631b07a9307ac4ca47797",
+"canvaskit/profiling/canvaskit.js": "38164e5a72bdad0faa4ce740c9b8e564",
+"canvaskit/profiling/canvaskit.wasm": "95a45378b69e77af5ed2bc72b2209b94",
+"canvaskit/canvaskit.wasm": "bf50631470eb967688cca13ee181af62"
 };
 
 // The application shell files that are downloaded before a service worker can
@@ -57,7 +58,6 @@ const RESOURCES = {
 const CORE = [
   "main.dart.js",
 "index.html",
-"assets/NOTICES",
 "assets/AssetManifest.json",
 "assets/FontManifest.json"];
 // During install, the TEMP cache is populated with the application shell files.
@@ -156,9 +156,11 @@ self.addEventListener("fetch", (event) => {
     .then((cache) =>  {
       return cache.match(event.request).then((response) => {
         // Either respond with the cached resource, or perform a fetch and
-        // lazily populate the cache.
+        // lazily populate the cache only if the resource was successfully fetched.
         return response || fetch(event.request).then((response) => {
-          cache.put(event.request, response.clone());
+          if (response && Boolean(response.ok)) {
+            cache.put(event.request, response.clone());
+          }
           return response;
         });
       })
