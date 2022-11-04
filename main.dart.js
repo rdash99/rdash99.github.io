@@ -62784,12 +62784,12 @@ $S:0}
 A.mS.prototype={
 G(a){var s,r,q=null,p=t.w,o=a.E(p).f.a.a,n=A.bf("Technologies I have worked with:\n",q,q,q),m=t.t,l=A.a([],m)
 for(s=0;s<7;++s)l.push(new A.pU($.avO[s],q))
-for(s=0;s<7;++s)l.push(o>=600&&o<=950?new A.pU($.akg[s],q):A.bj(q,q,q,q,q,q,q,q))
+for(s=0;s<8;++s)l.push(o>=600&&o<=950?new A.pU($.akg[s],q):A.bj(q,q,q,q,q,q,q,q))
 l=A.dn(l,B.ac,B.q)
 r=!(o<=600)
 p=!r||o>=950?A.bD(q,q,a.E(p).f.a.a*0.04):A.bD(q,q,q)
 if(!r||o>=950){r=A.a([],m)
-for(s=0;s<7;++s)r.push(new A.pU($.akg[s],q))
+for(s=0;s<8;++s)r.push(new A.pU($.akg[s],q))
 r=A.dn(r,B.ac,B.q)}else r=A.bj(q,q,q,q,q,q,q,q)
 return A.dn(A.a([n,A.cE(A.a([l,p,r],m),B.ac,B.q,B.ax)],m),B.ac,B.q)}}
 A.pU.prototype={
@@ -68205,7 +68205,7 @@ $.akE=null
 $.aex=A.a(["assets/ksw.png","assets/flutter.png","assets/SwanseaUni.png"],t.i)
 $.aew=A.a(["https://www.ksw.org.uk/","https://flutter.dev/","https://www.swansea.ac.uk"],t.i)
 $.avO=A.a(["Flutter","Dart","Python","Bash","LaTeX","SQL","Docker"],t.i)
-$.akg=A.a(["HTML","CSS","Java","Haskell","Git","Linux","VsCode"],t.i)
+$.akg=A.a(["HTML","CSS","Java","Haskell","Git","Linux","VsCode","PHP"],t.i)
 $.aeA=A.a(["assets/services/app.png","assets/services/open.png"],t.i)
 $.aeC=A.a(["App Development","Open Source - GitHub"],t.i)
 $.aez=A.a(["For now, I am developing Web Apps using Flutter. I am also working on Flutter for Android Development.","Working open source on GitHub.\nCheck out my GitHub Profile @rdash99"],t.i)
