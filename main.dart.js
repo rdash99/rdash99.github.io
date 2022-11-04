@@ -62658,7 +62658,7 @@ G(a){var s,r,q,p,o,n,m,l=this,k=null,j=l.c
 if(j==null)j=B.cX
 s=t.w
 r=l.d
-q=A.i6(k,a.E(s).f.a.a<600?l.eK(r,!1):l.eK(r+2,!1),"Hi there! I'm Rowan, an aspiring Software Engineer and SciFi writer based in the United Kingdom.\n\nI have been developing mobile apps in my spare time since 2019.\n\nRight now I'm in my first year of my degree in software engineering at ")
+q=A.i6(k,a.E(s).f.a.a<600?l.eK(r,!1):l.eK(r+2,!1),"Hi there! I'm Rowan, an aspiring Software Engineer and SciFi writer based in the United Kingdom.\n\nI have been developing mobile apps in my spare time since 2019.\n\nRight now I'm in my second year of my degree in Software Engineering at ")
 p=A.i6(k,a.E(s).f.a.a<600?l.eK(r,!0):l.eK(r+2,!0),"Swansea University. ")
 o=A.i6(k,a.E(s).f.a.a<600?l.eK(r,!1):l.eK(r+2,!1),"I studied Computer-Science, Biology and Chemistry for my A-Levels at The King's School Worcester.")
 n=A.i6(k,a.E(s).f.a.a<600?l.eK(r,!0):l.eK(r+2,!0),"")
