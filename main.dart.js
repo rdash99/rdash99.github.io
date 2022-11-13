@@ -62444,7 +62444,7 @@ $S:0}
 A.Do.prototype={
 F(a){var s=null,r=t.w,q=a.E(r).f.a.b
 r=a.E(r).f
-return A.bj(s,A.ln(A.bf("\xa9 All Rights Reservered by Rowan Dash",A.bp(s,s,B.R,s,s),s,s),s,s),B.b2,s,q*0.07,new A.aI(0,q*0.05,0,0),s,r.a.a)}}
+return A.bj(s,A.ln(A.bf("\xa9 All Rights Reserved by Rowan Dash",A.bp(s,s,B.R,s,s),s,s),s,s),B.b2,s,q*0.07,new A.aI(0,q*0.05,0,0),s,r.a.a)}}
 A.vr.prototype={
 a8(){return new A.LQ(B.j)}}
 A.LQ.prototype={
