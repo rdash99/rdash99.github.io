@@ -99,9 +99,9 @@ const RESOURCES = {"canvaskit/chromium/canvaskit.js": "96ae916cd2d1b7320fff853ee
 "assets/shaders/ink_sparkle.frag": "f8b80e740d33eb157090be4e995febdf",
 "icons/Icon-512.png": "84780d2dfe97536ad1b68213079cc78b",
 "icons/Icon-192.png": "002516a4b23f153b7ac2928347c377b1",
-"index.html": "416aeeb934ba3777bc8723d39566cb05",
-"/": "416aeeb934ba3777bc8723d39566cb05",
-"main.dart.js": "d5390c35fe4a7c51749b14dcf39b90fe",
+"index.html": "884eef7b4f1193bb76b646bbb6a81186",
+"/": "884eef7b4f1193bb76b646bbb6a81186",
+"main.dart.js": "d3d0450ba27aa51522e08cafb02c0e39",
 "flutter.js": "6fef97aeca90b426343ba6c5c9dc5d4a",
 "favicon.png": "7f89fb551cca5a258242d0d7841c5b7b",
 "manifest.json": "3421cd00e17d6f742428a18cbf45709d"};
