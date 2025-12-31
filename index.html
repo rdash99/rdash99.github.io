@@ -33,6 +33,19 @@
   <link rel="manifest" href="manifest.json">
 </head>
 <body>
+  <!-- Lightweight static splash shown immediately while Flutter loads -->
+  <div id="splash" style="display:flex;align-items:center;justify-content:center;height:100vh;flex-direction:column;">
+    <img src="assets/hi.gif" alt="logo" style="height:120px;max-width:60%;object-fit:contain;"/>
+    <div style="height:20px"></div>
+    <div style="width:48px;height:48px;border:4px solid rgba(0,0,0,0.1);border-top-color:rgba(0,0,0,0.6);border-radius:50%;animation:spin 1s linear infinite"></div>
+  </div>
+  <style>@keyframes spin{to{transform:rotate(360deg)}}</style>
+  <script>
+    // Hide the static splash as soon as Flutter renders the first frame
+    window.addEventListener('flutter-first-frame', function () {
+      try { document.getElementById('splash').style.display = 'none'; } catch(e) {}
+    });
+  </script>
   <script src="flutter_bootstrap.js" async></script>
 </body>
 </html>
