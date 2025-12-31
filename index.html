@@ -34,17 +34,50 @@
 </head>
 <body>
   <!-- Lightweight static splash shown immediately while Flutter loads -->
-  <div id="splash" style="display:flex;align-items:center;justify-content:center;height:100vh;flex-direction:column;">
-    <img src="assets/hi.gif" alt="logo" style="height:120px;max-width:60%;object-fit:contain;"/>
+  <style>
+    :root{
+      --splash-bg: #ffffff;
+      --spinner-border: rgba(0,0,0,0.1);
+      --spinner-top: rgba(0,0,0,0.6);
+    }
+    @media (prefers-color-scheme: dark){
+      :root{
+        --splash-bg: #000000;
+        --spinner-border: rgba(255,255,255,0.1);
+        --spinner-top: rgba(255,255,255,0.6);
+      }
+    }
+    #splash{display:flex;align-items:center;justify-content:center;height:100vh;flex-direction:column;background-color:var(--splash-bg)}
+    #splashLogo{height:120px;max-width:60%;object-fit:contain}
+    #splashSpinner{width:48px;height:48px;border:4px solid var(--spinner-border);border-top-color:var(--spinner-top);border-radius:50%;animation:spin 1s linear infinite}
+    @keyframes spin{to{transform:rotate(360deg)}}
+  </style>
+  <div id="splash">
+    <img id="splashLogo" src="assets/hi.gif" alt="logo" onerror="handleSplashError()"/>
     <div style="height:20px"></div>
-    <div style="width:48px;height:48px;border:4px solid rgba(0,0,0,0.1);border-top-color:rgba(0,0,0,0.6);border-radius:50%;animation:spin 1s linear infinite"></div>
+    <div id="splashSpinner"></div>
   </div>
-  <style>@keyframes spin{to{transform:rotate(360deg)}}</style>
   <script>
     // Hide the static splash as soon as Flutter renders the first frame
     window.addEventListener('flutter-first-frame', function () {
       try { document.getElementById('splash').style.display = 'none'; } catch(e) {}
     });
+
+    // Try a few fallback locations for the splash image if the primary path 404s
+    let _splashFallbackIndex = 0;
+    const _splashFallbacks = [
+      'assets/assets/hi.gif',
+      'assets/assets/hi.png',
+      'assets/hi.png'
+    ];
+    function handleSplashError(){
+      const img = document.getElementById('splashLogo');
+      if (!_splashFallbacks[_splashFallbackIndex]){
+        img.style.display = 'none';
+        return;
+      }
+      img.src = _splashFallbacks[_splashFallbackIndex++];
+    }
   </script>
   <script src="flutter_bootstrap.js" async></script>
 </body>
